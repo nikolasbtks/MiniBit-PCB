@@ -1,1 +1,1 @@
-# TheXeric-PCB
+# MiniBit-PCB
