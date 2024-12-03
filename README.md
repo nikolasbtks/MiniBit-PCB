@@ -43,7 +43,7 @@ Below is a 3D render of the PCB design:
    
 2. Microcontroller Programming:
    - Use Arduino IDE or any other platform to program the microcontroller.
-   - Use a debugger to JTAG headers.
+   - Use a debugger with JTAG headers.
 
 3. Peripheral Access
    - Use the GPIO, I2C and UART headers to connect peripherals.
