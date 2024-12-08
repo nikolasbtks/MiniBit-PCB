@@ -34,8 +34,6 @@ The board was designed using KiCad. Files from the PCB design can be found in th
 - Gerber files
 - Assembly files
 
-Below is a 3D render of the PCB design:
-
 ## How to Use
 
 1. Power the board
