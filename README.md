@@ -11,7 +11,7 @@ This project demonstrates a custom 2-layer PCB containing the ESP32-S3-Mini micr
    - 240 MHz clock speed 
    
 2. USB Connectivity:
-   - USB Type-B for data and power 
+   - USB Type-C for data and power 
    - USBLC6-2SC6 for ESD protection
 
 3. Power Supply: AP2112K-3.3 
